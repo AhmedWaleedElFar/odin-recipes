@@ -1,0 +1,25 @@
+* {
+    background-color: antiquewhite;
+    font-family: monospace, sans-serif;
+}
+h1 {
+    text-align: center;
+    font-size: 58px;
+    background-color: rgba(255, 196, 106, 0.719);
+    color: blueviolet;
+}
+.recipes a{
+    text-decoration: none;
+    color: black;
+    color: darkmagenta;
+    font-size:xx-large;
+}
+
+.recipes a:hover{
+    color: red;
+}
+
+.recipes li {
+    list-style: none;
+    text-align: center;
+}
